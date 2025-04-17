@@ -1,0 +1,24 @@
+### Website Development To-Do List  
+
+1. **Home Page**:  
+   - Design layout and structure.  
+   - Add a hero banner with placeholder image and text.  
+   - Create a navigation menu (Home, About, Services, Contact).  
+
+2. **About Page**:  
+   - Add a placeholder for team photos and bios.  
+   - Include a section for mission and vision statements.  
+
+3. **Services Page**:  
+   - List three services with placeholder descriptions.  
+   - Add icons for each service (temporary icons for now).  
+
+4. **Contact Page**:  
+   - Embed a simple contact form (name, email, message).  
+   - Include social media icons (linked to dummy URLs).  
+
+5. **General Tasks**:  
+   - Set up basic responsive design (for mobile and desktop).  
+   - Test navigation links for functionality.  
+   - Optimize placeholder images for quick load times.  
+
